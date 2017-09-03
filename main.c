@@ -1,4 +1,0 @@
-//
-//   FILE:  main.c
-// PURPOSE: 
-//
